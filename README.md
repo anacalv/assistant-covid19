@@ -1,12 +1,12 @@
 ## Pré-requisitos
 
 1. Baixar e instalar o [Node.js](https://nodejs.org/en/)
-2. Conta na [IBM Cloud](https://cloud.ibm.com/registration/).
+2. Criar uma conta na [IBM Cloud](https://cloud.ibm.com/registration/).
 3. Baixar e instalar o [IBM Cloud CLI](https://cloud.ibm.com/docs/cli/index.html#overview).
-4. Crie uma instância do serviço Watson Assistant e obtenha suas credenciais:
-    - Acesse a página do [Watson Assistant](https://cloud.ibm.com/catalog/services/conversation) no catálogo da IBM Cloud.
-    - Faça login.
-    - Clique em  **Create**.
+4. Criar uma instância do serviço Watson Assistant e obtenha suas credenciais:
+    - Acessar a página do [Watson Assistant](https://cloud.ibm.com/catalog/services/conversation) no catálogo da IBM Cloud.
+    - Efetuar o login.
+    - Clicar em  **Create**.
     
 ## Configurando a aplicação
 
